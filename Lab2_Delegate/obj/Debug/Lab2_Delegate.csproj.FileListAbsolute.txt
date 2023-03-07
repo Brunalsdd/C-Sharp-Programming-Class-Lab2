@@ -1,0 +1,13 @@
+C:\Users\Libar\OneDrive\Centennial College\4 Semester\COMP 212 - Programming 2\Week4\Lab2_Delegate\Lab2_Delegate\bin\Debug\Lab2_Delegate.exe.config
+C:\Users\Libar\OneDrive\Centennial College\4 Semester\COMP 212 - Programming 2\Week4\Lab2_Delegate\Lab2_Delegate\bin\Debug\Lab2_Delegate.exe
+C:\Users\Libar\OneDrive\Centennial College\4 Semester\COMP 212 - Programming 2\Week4\Lab2_Delegate\Lab2_Delegate\bin\Debug\Lab2_Delegate.pdb
+C:\Users\Libar\OneDrive\Centennial College\4 Semester\COMP 212 - Programming 2\Week4\Lab2_Delegate\Lab2_Delegate\obj\Debug\Lab2_Delegate.csproj.AssemblyReference.cache
+C:\Users\Libar\OneDrive\Centennial College\4 Semester\COMP 212 - Programming 2\Week4\Lab2_Delegate\Lab2_Delegate\obj\Debug\Lab2_Delegate.csproj.SuggestedBindingRedirects.cache
+C:\Users\Libar\OneDrive\Centennial College\4 Semester\COMP 212 - Programming 2\Week4\Lab2_Delegate\Lab2_Delegate\obj\Debug\Lab2_Delegate.Properties.Resources.resources
+C:\Users\Libar\OneDrive\Centennial College\4 Semester\COMP 212 - Programming 2\Week4\Lab2_Delegate\Lab2_Delegate\obj\Debug\Lab2_Delegate.csproj.GenerateResource.cache
+C:\Users\Libar\OneDrive\Centennial College\4 Semester\COMP 212 - Programming 2\Week4\Lab2_Delegate\Lab2_Delegate\obj\Debug\Lab2_Delegate.csproj.CoreCompileInputs.cache
+C:\Users\Libar\OneDrive\Centennial College\4 Semester\COMP 212 - Programming 2\Week4\Lab2_Delegate\Lab2_Delegate\obj\Debug\Lab2_Delegate.exe
+C:\Users\Libar\OneDrive\Centennial College\4 Semester\COMP 212 - Programming 2\Week4\Lab2_Delegate\Lab2_Delegate\obj\Debug\Lab2_Delegate.pdb
+C:\Users\Libar\OneDrive\Centennial College\4 Semester\COMP 212 - Programming 2\Week4\Lab2_Delegate\Lab2_Delegate\obj\Debug\Lab2_Delegate.ManageSubscriptionForm.resources
+C:\Users\Libar\OneDrive\Centennial College\4 Semester\COMP 212 - Programming 2\Week4\Lab2_Delegate\Lab2_Delegate\obj\Debug\Lab2_Delegate.NotificationManagementForm.resources
+C:\Users\Libar\OneDrive\Centennial College\4 Semester\COMP 212 - Programming 2\Week4\Lab2_Delegate\Lab2_Delegate\obj\Debug\Lab2_Delegate.PublishNotForm.resources
